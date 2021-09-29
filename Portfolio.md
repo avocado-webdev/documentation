@@ -27,13 +27,30 @@
 **Spezialisierung auf Alternativprodukte & den ökologischen Fußabdruck:**
 
 - Die Anwendung versucht vermehrt *vegetarische* oder *vegane* Gerichte anzubieten, bzw. den Schwerpunkt auf Mahlzeiten zu legen, welche eine fleischreduziertere und gesündere Alternative zu den herkömmlichen Produkten bieten
-- Die Applikation fokussiert sich auf Personen mit *Nahrungsmittelunverträglichkeiten*, wie z.B. Laktose- oder Fruktoseintoleranz, sowie Zöliakie (Glutenunverträglichkeit)
 - Die Anwendung versucht vermehrt *regionale*, *nachhaltige* Produkte anzubieten, um entsprechend heimische Anbieter vermehrt in die Produktauswahl zu integrieren
 - Durch das Abspeichern und Verfolgen des Mindesthaltbarkeitsdatum kann verhindert werden, dass Lebensmittel nicht unnötig weckgeworfen und entsprechend zeitgerecht aufgebraucht werden
 
+Die oben genannten Punkte erfordern eine gezielte Zusammenarbeit mit regionalen Lebensmittelherstellern und Experten, sowie Personen die einen gezielten Fokus auf die Umwelt und Nachhaltigkeit legen.
+
 <br/>
 
-**Spezialisierung auf eine spezifische Zielgruppe**
+**Spezialisierung auf eine spezifische Zielgruppe (Amateur- und Profisport):**
+
+- Das Aufzeichnen von Lebensmitteln und Erstellen eines individuellen, an den Bedürfnissen des Benutzers angepassten Ernährungsplans könnte vor alle in vielen Bereichen des *Sports* (Amateur- und Profisport) Anwendung finden
+- Speziell Personen die aus beruflichen Gründen sportliche Aktivitäten ausüben (Leistungssportler) sind darauf bedacht, sich entsprechend gesund, ausgewogen und individuell zu ernähren
+
+Die oben genannten Punkte erfordern eine gezielte Zusammenarbeit mit Amateur- und Profisportler, sowie Sportwissenschaftler, die einen gezielten Fokus auf die richtige Ernährung legen.
+
+<br/>
+
+**Spezialisierung auf eine spezifische Zielgruppe (Diätologie, Medizin):**
+
+- Die Applikation fokussiert sich auf Personen mit *Nahrungsmittelunverträglichkeiten*, wie z.B. Laktose- oder Fruktoseintoleranz, sowie Zöliakie (Glutenunverträglchkeit) und versucht entsprechend alternative Produkte bzw. Mahlzeiten anzubieten
+- Die Anwendung legt den Schwerpunkt auf Menschen mit *Essstörungen* bzw. besonderem Essverhalten, wie z.B. Magersucht oder Fettleibigkeit und fokussiert sich entsprechend auf die exakte Extrahierung der in den Lebensmitteln enthaltenen Kalorien und Maktronährstoffe, sowie auf den gesamtheitlichen Kalorienumsatz
+- Die Applikation versucht Personen mit *Diabetes* in ihrer Ernährung zu unterstützen
+
+Die oben genannten Punkte erfordern eine gezielte Zusammenarbeit mit *Fachleuten der Diätologie* und Medizinern, die sich auf ernährungsbedingte Krankheiten spezialiserten, sowie betroffenen Personen.
+
 
 <br/>
 
@@ -49,3 +66,18 @@ Allgemein gibt es die folgenden Herangehensweisen für die Aufzeichnung der Lebe
 - Es werden die *Kassenbons* der gekauften Lebensmittel fotografiert oder eingescannt, z.B. mithilfe eines *Barcode-Scanners* und entsprechend in die Anwendung übertragen
 
 <br/>
+
+### Notizen & Tools
+
+<hr/>
+
+<br/>
+
+- Fotografieren der Inhaltsstoffe eines Produkts
+- Verfahren der Texterkennung können die Informationen entsprechend extrahieren und in die Applikation übertragen
+- Dadurch können beispielsweise verpackte Lebensmittel erfasst werden
+
+<br/>
+
+*Label Studio* ist ein Open-Source-Tool zum Labeln (Beschriften) von Datensätzen: <br/>
+https://labelstud.io/
