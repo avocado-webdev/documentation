@@ -80,7 +80,6 @@ Die folgende Abbildung veranschaulicht den möglichen Aufbau eines Kassenbelegs 
 - Zum Teil sind relevante Angaben zu dem Produkt, wie z.B. Gewicht oder Menge, auf dem Kassenbeleg vorhanden
 - Der Kassenbeleg könnte zukünftig so aufgebaut und strukturiert werden, dass für die Applikation relevante Informationen extrahiert werden können, z.B. durch die Generierung eines spezifischen QR-Codes, welcher sich einfach abfotografieren lässt
 - Problematisch könnte allerdLings der Eingriff in bereits bestehende Systeme, sowie in die Philosophie der Lebensmittelhersteller und Supermarktbetreiber sein
-- Zudem gestaltet sich der Prozess der Veränderung der Lebensmittelbezeichnung, bzw. der Struktur und Beschriftung des Kassenbelegs als langwierig
 
 <br/>
 
@@ -93,6 +92,7 @@ Die folgende Abbildung veranschaulicht den möglichen Aufbau eines Kassenbelegs 
 - Ebenso gestaltet sich der Lebensmitteleinkauf (Lebensmittelmanagement) als recht zeitintensiv und die Entscheidungsfindung des zu kochenden Gerichts äußerst mühsam
 - Fotografieren der Inhaltstoffe eines Produkts, die auf der Rückseite abgebildet sind
 - Verwendung der Verfahren der Texterkennung, um entsprechend Informationen zu extrahieren und in die Applikation zu übertragen, wodurch beispielsweise verpackte Lebensmittel erfasst werden können
+- Sprachanbindung Alexa
 
 <br/>
 
